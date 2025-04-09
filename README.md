@@ -1,6 +1,6 @@
 # 🌌 CyanAddons - A ChatTriggers Module for Hypixel SkyBlock
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
 [![ChatTriggers](https://img.shields.io/badge/ChatTriggers-Download-brightgreen)](https://www.chattriggers.com/)
 
 > A powerful and lightweight ChatTriggers module designed to enhance your Hypixel SkyBlock dungeons gameplay.
