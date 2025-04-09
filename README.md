@@ -17,7 +17,7 @@
 - ✅ Box starred mobs
 - ✅ Positional Messages
 - ✅ Secret waypoint and guide
-- ✅ Teammate highlight
+- ✅ Wither outline/box (Necron, Maxor, Goldor, Storm)
 - ✅ Terracotta timer
 - ✅ Blessing display
 - ✅ Clicked secret & etherwarp overlay
