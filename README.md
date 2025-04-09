@@ -1,51 +1,46 @@
-# 🌌 [Mod Name] - A ChatTriggers Module for Hypixel SkyBlock
+# 🌌 CyanAddons - A ChatTriggers Module for Hypixel SkyBlock
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![ChatTriggers](https://img.shields.io/badge/ChatTriggers-Download-brightgreen)](https://www.chattriggers.com/)
 
-> A powerful and lightweight ChatTriggers module designed to enhance your Hypixel SkyBlock experience with [brief summary of functionality].
+> A powerful and lightweight ChatTriggers module designed to enhance your Hypixel SkyBlock dungeons gameplay.
 
 ---
 
 ## ✨ Features
 
-- ✅ [Feature 1, e.g., Custom alerts for dungeon puzzles]
-- ✅ [Feature 2, e.g., Auto-waypoints for Fairy Souls]
-- ✅ [Feature 3, e.g., Auction/Bazaar price checker]
-- ✅ [Feature 4, e.g., SkyBlock QOL enhancements]
-- ⚙️ Configurable options with `/ct settings`
-- 💬 Minimal and non-intrusive UI integration
+- ✅ Custom terminal GUI, solvers, and terminal timer
+- ✅ Puzzle solvers (Icefill, waterboard 1 flow, tic tac toe, blaze, boulder)
+- ✅ Autokicker (PB, Comps, Level, MP, Secret Average, Total Secrets)
+- ✅ Frag run counter
+- ✅ Rare drops alert and tracker
+- ✅ Box starred mobs
+- ✅ Positional Messages
+- ✅ Secret waypoint and guide
+- ✅ Teammate highlight
+- ✅ Terracotta timer
+- ✅ Blessing display
+- ✅ Clicked secret & etherwarp overlay
+- ✅ Custom leap GUI
+- ✅ Custom death message, leap message, melody message, and dungeon start message
+- ✅ Clean goldor completion titles
+- ✅ Livid Solver
+- ✅ Inactive terminal waypoints 
+- ✅ Blood timer and spawn alert / run splits <br>
+and many more!
 
 ---
 
 ## 📦 Installation
 
 1. Install [ChatTriggers](https://www.chattriggers.com/) in your Minecraft `mods` folder (requires Forge 1.8.9).
-2. Launch Minecraft and run:
-or manually download from this repo and place the module in your `config/ChatTriggers/modules/` directory.
-
-3. Run:
-4. You're ready to go!
+2. Download the zip from this repo and extract the zip into the `config/ChatTriggers/modules/` folder.
+3. You're ready to go!
 
 ---
 
 ## ⚙️ Usage
 
-Use `/[yourmodcommand]` to open the settings or interact with the module.  
-Keybinds and UI overlays can be adjusted via `/ct settings [modname]`.
+Use `/cyan` to open the settings menu!
 
 ---
-
-## 🛠️ Development
-
-Want to contribute or modify the module?
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/[modname].git
-
-# Navigate to your ChatTriggers modules folder
-cd ~/.minecraft/config/ChatTriggers/modules/
-
-# Symlink or copy the module folder here
-ln -s /path/to/your/local/repo [modname]
