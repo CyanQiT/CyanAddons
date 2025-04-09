@@ -1,7 +1,7 @@
 # 🌌 [Mod Name] - A ChatTriggers Module for Hypixel SkyBlock
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![ChatTriggers](https://img.shields.io/badge/ChatTriggers-Compatible-brightgreen)](https://www.chattriggers.com/)
+[![ChatTriggers](https://img.shields.io/badge/ChatTriggers-Download-brightgreen)](https://www.chattriggers.com/)
 
 > A powerful and lightweight ChatTriggers module designed to enhance your Hypixel SkyBlock experience with [brief summary of functionality].
 
