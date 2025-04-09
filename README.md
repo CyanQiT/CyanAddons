@@ -9,7 +9,7 @@
 
 ## ✨ Features
 
-- ✅ Custom terminal GUI, solvers, and terminal timer
+- ✅ Custom terminal GUI, solvers, zero ping terminals, and terminal timer
 - ✅ Puzzle solvers (Icefill, waterboard 1 flow, tic tac toe, blaze, boulder)
 - ✅ Autokicker (PB, Comps, Level, MP, Secret Average, Total Secrets)
 - ✅ Frag run counter
